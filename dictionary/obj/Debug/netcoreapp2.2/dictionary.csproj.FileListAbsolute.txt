@@ -1,0 +1,11 @@
+C:\Users\Newforce\workspace\csharp\dictionary\bin\Debug\netcoreapp2.2\dictionary.deps.json
+C:\Users\Newforce\workspace\csharp\dictionary\bin\Debug\netcoreapp2.2\dictionary.runtimeconfig.json
+C:\Users\Newforce\workspace\csharp\dictionary\bin\Debug\netcoreapp2.2\dictionary.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\csharp\dictionary\bin\Debug\netcoreapp2.2\dictionary.dll
+C:\Users\Newforce\workspace\csharp\dictionary\bin\Debug\netcoreapp2.2\dictionary.pdb
+C:\Users\Newforce\workspace\csharp\dictionary\obj\Debug\netcoreapp2.2\dictionary.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\csharp\dictionary\obj\Debug\netcoreapp2.2\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\csharp\dictionary\obj\Debug\netcoreapp2.2\dictionary.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\csharp\dictionary\obj\Debug\netcoreapp2.2\dictionary.AssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\dictionary\obj\Debug\netcoreapp2.2\dictionary.dll
+C:\Users\Newforce\workspace\csharp\dictionary\obj\Debug\netcoreapp2.2\dictionary.pdb
